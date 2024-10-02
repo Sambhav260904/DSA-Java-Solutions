@@ -4,8 +4,8 @@ This repository contains my solutions and implementations of various Data Struct
 
 ## Resources
 
-- **LeetCode Profile**: [Sambhav260904](https://leetcode.com/Sambhav260904)
-- **DSA Learning Source**: [Apna College - DSA Playlist](https://www.youtube.com/c/ApnaCollege)
+- **LeetCode Profile**: [Sambhav Rawani](https://leetcode.com/u/sambhavrawani/)
+- **DSA Learning Source**: [Apna College - DSA Playlist](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop)
 
 ## Topics Covered
 - Arrays
@@ -24,4 +24,4 @@ This repository contains my solutions and implementations of various Data Struct
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sambhav260904/dsa-with-java.git
+   https://github.com/Sambhav260904/DSA-Java-Solutions.git
